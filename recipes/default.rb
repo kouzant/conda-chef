@@ -1,4 +1,4 @@
-include_recipe "java"
+#include_recipe "java"
 
 # User anaconda needs access to bin/hadoop to install Pydoop
 # This is a hack to get the hadoop group.
